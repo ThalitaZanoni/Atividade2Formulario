@@ -1,0 +1,24 @@
+{
+  "name": "atividade2formulario",
+  "version": "1.0.0",
+  "description": "Atividade 2 PPI - Formulario",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThalitaZanoni/Atividade2Formulario.git"
+  },
+  "author": "Thalita Zanoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThalitaZanoni/Atividade2Formulario/issues"
+  },
+  "homepage": "https://github.com/ThalitaZanoni/Atividade2Formulario#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
